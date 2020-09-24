@@ -18,6 +18,7 @@ a:hover {
     cursor: pointer;
 }
 
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -702,6 +703,7 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    color: #FFFFFF!important;
 }
 
 h2 {
@@ -771,15 +773,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #CA4821;
 }
 
 .tc-white {
-    color: #FDA37C!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #CA4821;
     color: #FFFFFF!important;
 }
 
@@ -822,7 +824,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpeg");
 }
 
 @media (max-width: 1024px) {
